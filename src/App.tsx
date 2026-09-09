@@ -158,17 +158,6 @@ export default function App() {
               <span style={{ color: "var(--faint)" }}>{c.count}</span>
             </button>
           ))}
-          <button type="button" style={{ cursor: "default" }}>
-            <i
-              style={{
-                background: "transparent",
-                border: "1.5px dashed var(--deceased)",
-                borderRadius: 0,
-                transform: "rotate(45deg)",
-              }}
-            />
-            {t.deceased}
-          </button>
           {hasTopicFilter ? (
             <button type="button" className="legend-clear" onClick={clearTopics}>
               {t.clearTopics}
