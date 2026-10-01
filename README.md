@@ -6,9 +6,11 @@ Live topics come from the project spreadsheet plus Google Scholar interest tags 
 
 [Русская версия README](README.ru.md)
 
-Site: [https://lilalogos.github.io/SIGHCI/](https://lilalogos.github.io/SIGHCI/)
+Site (if GitHub Pages is reachable): [https://lilalogos.github.io/SIGHCI/](https://lilalogos.github.io/SIGHCI/)
 
-Push to `main` builds GitHub Pages via Actions (`Settings → Pages → GitHub Actions`).
+Mirror that does not use `github.io`: [https://raw.githack.com/Lilalogos/SIGHCI/gh-pages/index.html](https://raw.githack.com/Lilalogos/SIGHCI/gh-pages/index.html)
+
+Push to `main` builds GitHub Pages via Actions and updates the `gh-pages` branch.
 
 ## Run
 

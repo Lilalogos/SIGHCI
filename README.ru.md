@@ -6,9 +6,11 @@
 
 [English README](README.md)
 
-Сайт: [https://lilalogos.github.io/SIGHCI/](https://lilalogos.github.io/SIGHCI/)
+Сайт (если открывается GitHub Pages): [https://lilalogos.github.io/SIGHCI/](https://lilalogos.github.io/SIGHCI/)
 
-Пуш в `main` собирает GitHub Pages через Actions (`Settings → Pages → GitHub Actions`).
+Зеркало без `github.io`: [https://raw.githack.com/Lilalogos/SIGHCI/gh-pages/index.html](https://raw.githack.com/Lilalogos/SIGHCI/gh-pages/index.html)
+
+Пуш в `main` собирает GitHub Pages через Actions и обновляет ветку `gh-pages`.
 
 ## Запуск
 
